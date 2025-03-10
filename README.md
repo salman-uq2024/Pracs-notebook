@@ -1,1 +1,1 @@
-Student Notebooks for COMP4702 PRACS
+Student Jupyter Notebooks for COMP4702 PRACS
